@@ -1,0 +1,26 @@
+{
+  "name": "game.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillonkh/game.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dillonkh/game.io/issues"
+  },
+  "homepage": "https://github.com/dillonkh/game.io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.4"
+  },
+  "devDependencies": {
+    "@timohausmann/quadtree-js": "^1.2.3"
+  }
+}
